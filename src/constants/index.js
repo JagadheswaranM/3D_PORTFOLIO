@@ -149,7 +149,7 @@ import {
       source_code_link: "https://github.com/JagadheswaranM/Customize_it",
     },
     {
-      name: "Job IT",
+      name: "Dalle 2.0",
       description:
         "Web application that enables users to search for images and allows the users to share it to the internet",
       tags: [
